@@ -20,7 +20,8 @@ Perplexity AI Integration: Powered by advanced AI for intelligent conversations
 💪 Workplace Navigation: Handling discrimination, assertiveness, professional communication
 
 🖥️ Screenshots
-/var/folders/nh/53g1gsld1rbfcq5yc_8w6_580000gp/T/TemporaryItems/NSIRD_screencaptureui_PJouz5/Screenshot 2025-06-03 at 10.21.04 PM.png
+<img width="1463" alt="Screenshot 2025-06-03 at 10 26 42 PM" src="https://github.com/user-attachments/assets/a757bc2d-70b0-4d17-bdcb-914f034e72dc" />
+
 Clean, modern interface designed specifically for women's empowerment discussions
 🚀 Getting Started
 Prerequisites
